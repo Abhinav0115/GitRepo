@@ -1,0 +1,72 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+a {
+    text-decoration: none;
+}
+
+.App {
+    text-align: center;
+}
+
+/* background image */
+
+.signBG {
+    background-image: url("https://www.pixsavor.com/uploads/large/4k-space/planet-universe.jpg");
+}
+
+.LandingBG {
+    min-height: 82.3%;
+    min-width: 100%;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.signInBG {
+    min-height: 82.3%;
+    min-width: 100%;
+    background-position: center left;
+    background-attachment: fixed;
+}
+
+.signUpBG {
+    min-height: 82.3%;
+    min-width: 100%;
+    background-position: center right;
+}
+
+.HeadFootBG {
+    min-width: 100%;
+    background-image: url("https://www.cnet.com/a/img/resize/90bc98c7d6017cab30ad4f104235a0adb9c80364/hub/2022/01/14/a9f69e23-6e03-437a-95a2-3493834fa12b/gettyimages-1158013906.jpg?auto=webp&fit=crop&height=675&width=1200");
+    background-position: top;
+}
+
+.HomeBG {
+    padding-top: 1px;
+    min-height: 85%;
+    min-width: 100%;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.RepoBG {
+    background-image: url("https://img.freepik.com/free-vector/gradient-background-vector-spring-colors_53876-117271.jpg?fit=crop&w=240&h=130?auto=format&fit=crop&w=480&h=26https://visme.co/blog/wp-content/uploads/2017/07/50-Beautiful-and-Minimalist-Presentation-Backgrounds-040.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+.UserBG {
+    background-image: url("https://visme.co/blog/wp-content/uploads/2017/07/50-Beautiful-and-Minimalist-Presentation-Backgrounds-040.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: bottom;
+}
+
+.WelcomeBG {
+    background-image: url("https://static.vecteezy.com/system/resources/previews/000/190/741/original/ultra-violet-galactic-background-free-vector.jpg");
+    background-position: center right;
+    /* background-size: cover; */
+}
