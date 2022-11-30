@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/GitRepo/static/css/main.1f084bf6.css",
-    "main.js": "/GitRepo/static/js/main.a86190e2.js",
+    "main.css": "/GitRepo/static/css/main.e4064a7c.css",
+    "main.js": "/GitRepo/static/js/main.2dcdb269.js",
     "static/js/787.1dcdc4a5.chunk.js": "/GitRepo/static/js/787.1dcdc4a5.chunk.js",
     "static/media/gr2.png": "/GitRepo/static/media/gr2.d07947d32659f2bea1d6.png",
     "index.html": "/GitRepo/index.html",
-    "main.1f084bf6.css.map": "/GitRepo/static/css/main.1f084bf6.css.map",
-    "main.a86190e2.js.map": "/GitRepo/static/js/main.a86190e2.js.map",
+    "main.e4064a7c.css.map": "/GitRepo/static/css/main.e4064a7c.css.map",
+    "main.2dcdb269.js.map": "/GitRepo/static/js/main.2dcdb269.js.map",
     "787.1dcdc4a5.chunk.js.map": "/GitRepo/static/js/787.1dcdc4a5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1f084bf6.css",
-    "static/js/main.a86190e2.js"
+    "static/css/main.e4064a7c.css",
+    "static/js/main.2dcdb269.js"
   ]
 }
